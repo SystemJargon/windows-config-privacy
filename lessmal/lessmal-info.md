@@ -1,1 +1,0 @@
-[lessmal*.bat scripts source]: (https://gitlab.com/0mid/dotfiles/-/blob/master/lessmal.bat)
